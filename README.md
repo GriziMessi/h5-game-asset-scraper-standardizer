@@ -1,6 +1,6 @@
 # H5 Game Asset Scraper & Standardizer
 
-Codex skill for collecting public webpage text, images, and video URLs, then converting selected store assets into fixed PNG deliverable sizes.
+A Codex skill for collecting publicly accessible webpage text, images, and video URLs, and preparing selected store assets as standardized PNG deliverables.
 
 This was designed for workflows like:
 
