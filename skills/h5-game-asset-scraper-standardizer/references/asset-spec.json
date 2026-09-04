@@ -1,0 +1,56 @@
+{
+  "roles": {
+    "icon": {
+      "outputs": [
+        {
+          "suffix": "512x512",
+          "width": 512,
+          "height": 512,
+          "fit": "cover"
+        },
+        {
+          "suffix": "84x84",
+          "width": 84,
+          "height": 84,
+          "fit": "cover"
+        }
+      ]
+    },
+    "cover": {
+      "outputs": [
+        {
+          "suffix": "1920x1080",
+          "width": 1920,
+          "height": 1080,
+          "fit": "cover"
+        },
+        {
+          "suffix": "1200x628",
+          "width": 1200,
+          "height": 628,
+          "fit": "cover"
+        }
+      ]
+    },
+    "screenshot": {
+      "outputs": [
+        {
+          "suffix": "1920x1080",
+          "width": 1920,
+          "height": 1080,
+          "fit": "cover"
+        },
+        {
+          "suffix": "1200x628",
+          "width": 1200,
+          "height": 628,
+          "fit": "cover"
+        }
+      ]
+    }
+  },
+  "defaults": {
+    "pngCompressionLevel": 9,
+    "background": "#000000"
+  }
+}

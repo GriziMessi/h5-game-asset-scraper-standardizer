@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "collect": "node collect-page-assets.js",
+    "standardize": "node standardize-assets.js"
+  },
+  "dependencies": {
+    "playwright": "^1.61.1",
+    "sharp": "^0.34.2"
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Webpage Asset Standardizer"
+  short_description: "Extract and resize webpage media"
+  default_prompt: "Use $webpage-asset-standardizer to extract this page's text, images, videos, and standardized PNG assets."
+policy:
+  allow_implicit_invocation: true

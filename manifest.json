@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://example.com",
+  "suggestedRoles": {},
+  "images": [],
+  "failedImages": [],
+  "outputs": [
+    {
+      "role": "cover",
+      "source": "raw-images/cover.png",
+      "file": "standardized/cover_1920x1080.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "role": "cover",
+      "source": "raw-images/cover.png",
+      "file": "standardized/cover_1200x628.png",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "role": "icon",
+      "source": "raw-images/icon.png",
+      "file": "standardized/icon_512x512.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "role": "screenshot_1",
+      "source": "raw-images/screenshot_1.png",
+      "file": "standardized/screenshot_1_1920x1080.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "role": "screenshot_1",
+      "source": "raw-images/screenshot_1.png",
+      "file": "standardized/screenshot_1_1200x628.png",
+      "width": 1200,
+      "height": 628
+    }
+  ],
+  "standardizedAt": "2026-07-06T07:55:06.768Z",
+  "missingRoles": []
+}
