@@ -6,7 +6,7 @@ This was designed for workflows like:
 
 - collect a game listing page's English description
 - download icon, cover, and screenshot assets
-- output `84x84`, `512x512`, `1920x1080`, and `1200x628` PNG files
+- output `84x84`, `512x512`, `1920x1080` and `1200x628` PNG files
 - return video URLs without downloading protected video streams
 
 ## Install
