@@ -71,8 +71,3 @@ git push -u origin main
 - The skill only targets public webpage resources.
 - Do not commit generated `outputs/` folders.
 - Do not commit cookies, API keys, private browser profiles, or protected media.
-"# h5-game-asset-scraper-standardizer" 
-"# h5-game-asset-scraper-standardizer" 
-"# h5-game-asset-scraper-standardizer" 
-"# h5-game-asset-scraper-standardizer" 
-# h5-game-asset-scraper-standardizer
